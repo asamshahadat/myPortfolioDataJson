@@ -22,7 +22,8 @@ the JSON, so they work from any domain.
 | `title`        | string   |                                                    |
 | `description`  | string   |                                                    |
 | `category`     | string   | `wordpress` or `frontend`                          |
-| `industry`     | string   | Optional                                           |
+| `industry`     | string   | Optional; primary industry                         |
+| `industries`   | string[] | Optional; every industry the project belongs to. Filter with `p.industries \|\| [p.industry]` |
 | `project_type` | string   |                                                    |
 | `link`         | string   | Live URL; may be empty                             |
 
