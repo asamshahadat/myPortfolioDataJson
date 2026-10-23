@@ -1,5 +1,29 @@
 [
     {
+        "id": 65,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/mothlight/1.png"
+        ],
+        "title": "Mothlight Games",
+        "description": "A website for an independent game studio in Bergen, with a game-style world selector, patch notes, a quest log of news, achievements, careers and a press kit. A front-end concept with a playful, retro gaming interface.",
+        "category": "frontend",
+        "industry": "Creative & Media",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/mothlight/"
+    },
+    {
+        "id": 64,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/driftlight-studio/1.png"
+        ],
+        "title": "Driftlight Studio",
+        "description": "A multi-page website for an independent game studio in Lisbon, showcasing its games, a teaser countdown, devlogs, studio story and press kit. A front-end concept with a cinematic, atmospheric style.",
+        "category": "frontend",
+        "industry": "Creative & Media",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/driftlight-studio/"
+    },
+    {
         "id": 63,
         "images": [
             "https://asamshahadat.github.io/myPortfolioDataJson/images/steadfast-mens-therapy/1.png"
