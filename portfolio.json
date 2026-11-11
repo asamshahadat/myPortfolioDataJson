@@ -1,5 +1,293 @@
 [
     {
+        "id": 90,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/water-mitigation/1.png"
+        ],
+        "title": "TrueDry Restoration",
+        "description": "A one-page website for a water damage restoration company in Dallas-Fort Worth, with 24/7 emergency response, services and insurance billing. A front-end concept built for fast, urgent lead generation.",
+        "category": "frontend",
+        "industry": "Local Services",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/water-mitigation/"
+    },
+    {
+        "id": 89,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/talentorbit-refresh/1.png"
+        ],
+        "title": "TalentOrbit",
+        "description": "A German-language website for an international recruitment agency placing skilled workers from abroad in care and logistics, with recognition and visa support. A front-end redesign concept with a modern, trustworthy layout.",
+        "category": "frontend",
+        "industry": "Business & Professional",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/talentorbit-refresh/"
+    },
+    {
+        "id": 88,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/surgentec-revamp/1.png"
+        ],
+        "title": "SurGenTec",
+        "description": "A one-page revamp for a medical device company developing spine fixation, biologics and bone graft delivery systems. A front-end redesign concept with a sleek, high-tech medical look.",
+        "category": "frontend",
+        "industry": "Health & Wellness",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/surgentec-revamp/"
+    },
+    {
+        "id": 87,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/stmary-dental-redesign/1.png"
+        ],
+        "title": "St. Mary Dental",
+        "description": "A multi-page redesign for a prosthodontist in Covina, CA, covering implants, dentures, veneers and full-mouth rehabilitation. A front-end redesign concept with a clean, caring dental style.",
+        "category": "frontend",
+        "industry": "Health & Wellness",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/stmary-dental-redesign/"
+    },
+    {
+        "id": 86,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/standard-ember-salt/1.png"
+        ],
+        "title": "Ember & Salt",
+        "description": "A multi-page website for a forty-seat wood-fire bistro, with menus, the kitchen story and table reservations. A front-end concept with a warm, smoky restaurant atmosphere.",
+        "category": "frontend",
+        "industry": "Travel & Hospitality",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/standard-ember-salt/"
+    },
+    {
+        "id": 85,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/ridgemark/1.png"
+        ],
+        "title": "Ridgemark Roofing & Construction",
+        "description": "A multi-page website for a Brisbane roofing and construction company covering re-roofs, restorations, new builds and extensions. A front-end concept with a strong, dependable trade style.",
+        "category": "frontend",
+        "industry": "Local Services",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/ridgemark/"
+    },
+    {
+        "id": 84,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/proper-windows/1.png"
+        ],
+        "title": "Proper Windows & Doors",
+        "description": "A website for double glazed uPVC windows and doors in Perth, with product ranges, benefits and free measure and quote requests. A front-end concept with a clean, product-led layout.",
+        "category": "frontend",
+        "industry": "Real Estate & Home",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/proper-windows/"
+    },
+    {
+        "id": 83,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/northway-community-support/1.png"
+        ],
+        "title": "Northway Community Support",
+        "description": "A multi-page website for a charity offering free, confidential support to people affected by gambling and money worries. A front-end concept with a calm, reassuring and accessible design.",
+        "category": "frontend",
+        "industry": "Health & Wellness",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/northway-community-support/"
+    },
+    {
+        "id": 82,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/lume-botanics-v2/1.png"
+        ],
+        "title": "Lumé Botanics V2",
+        "description": "A second design direction for the Lumé skincare store, with product collections, ingredients and gift sets under the line \"Skincare that just works\". A front-end e-commerce concept with a fresh, minimal look.",
+        "category": "frontend",
+        "industry": "E-commerce",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/lume-botanics-v2/"
+    },
+    {
+        "id": 81,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/lume-botanics/1.png"
+        ],
+        "title": "Lumé Botanics",
+        "description": "A multi-page online store for clean, plant-powered skincare made in small batches in Croatia, with serums, body care and gift sets. A front-end e-commerce concept with a soft, natural aesthetic.",
+        "category": "frontend",
+        "industry": "E-commerce",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/lume-botanics/"
+    },
+    {
+        "id": 80,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/karam-law/1.png"
+        ],
+        "title": "Karam & Partners",
+        "description": "A multi-page website for a Beirut law firm advising on corporate law, real estate, litigation, arbitration and intellectual property. A front-end concept with a formal, bilingual-ready design.",
+        "category": "frontend",
+        "industry": "Business & Professional",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/karam-law/"
+    },
+    {
+        "id": 79,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/edgeline-barber-co/1.png"
+        ],
+        "title": "Edgeline Barber Co.",
+        "description": "A one-page website for a barbershop in Katy, TX, with services, prices, barbers, hours and online booking. A front-end concept with a sharp, masculine design.",
+        "category": "frontend",
+        "industry": "Local Services",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/edgeline-barber-co/"
+    },
+    {
+        "id": 78,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/e10arts/1.png"
+        ],
+        "title": "E10ARTS",
+        "description": "A multi-page website for artist studios for rent in Oakland, with available studios, events, open studios and exhibitions. A front-end concept with a bright, artistic style.",
+        "category": "frontend",
+        "industry": "Creative & Media",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/e10arts/"
+    },
+    {
+        "id": 77,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/drbuabbas/1.png"
+        ],
+        "title": "Dr. Mohammad Bu Abbas",
+        "description": "A one-page website for an ENT, head and neck and facial plastic surgeon in Kuwait, presenting procedures, credentials and consultations. A front-end concept with a clean, premium medical look.",
+        "category": "frontend",
+        "industry": "Health & Wellness",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/drbuabbas/"
+    },
+    {
+        "id": 76,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/circuit-west-electrical/1.png"
+        ],
+        "title": "Circuit West Electrical",
+        "description": "A website for licensed electricians in Perth offering switchboard upgrades, lighting, EV chargers and 24/7 emergency call-outs. A front-end concept with a bold, conversion-focused design.",
+        "category": "frontend",
+        "industry": "Local Services",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/circuit-west-electrical/"
+    },
+    {
+        "id": 75,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/cand-3d-can-studio/1.png"
+        ],
+        "title": "CAND",
+        "description": "A website for custom-printed aluminium beverage cans where users upload artwork, preview the can in 3D and order from 100 units. A front-end product tool concept with an interactive 3D can preview.",
+        "category": "frontend",
+        "industry": "E-commerce",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/cand-3d-can-studio/"
+    },
+    {
+        "id": 74,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/calder-vane/1.png"
+        ],
+        "title": "Calder & Vane LLP",
+        "description": "A multi-page website for a Toronto law firm covering corporate, real estate, family, estates, employment and personal injury law. A front-end concept with a refined, authoritative style.",
+        "category": "frontend",
+        "industry": "Business & Professional",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/calder-vane/"
+    },
+    {
+        "id": 73,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/c4g-concept/1.png"
+        ],
+        "title": "Connect4 Growth Solutions",
+        "description": "A one-page website for a growth strategy consultant helping founder-led and PE-backed businesses connect sales, marketing and operations. A front-end concept with a sharp, professional design.",
+        "category": "frontend",
+        "industry": "Business & Professional",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/c4g-concept/"
+    },
+    {
+        "id": 72,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/brooke-renae-redesign/1.png"
+        ],
+        "title": "BrookeRenae Photography",
+        "description": "A redesign for a wedding photographer in Perth and the South West of WA, with galleries, packages and story-driven content. A front-end redesign concept with a relaxed, editorial look.",
+        "category": "frontend",
+        "industry": "Creative & Media",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/brooke-renae-redesign/"
+    },
+    {
+        "id": 71,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/bluebonnet-homes-redesign/1.png"
+        ],
+        "title": "Bluebonnet Homes",
+        "description": "A multi-page redesign for a custom home builder in the Rio Grande Valley, covering the build process, floor plans, gallery and fixed-cost contracts. A front-end redesign concept with a modern, welcoming style.",
+        "category": "frontend",
+        "industry": "Real Estate & Home",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/bluebonnet-homes-redesign/"
+    },
+    {
+        "id": 70,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/basic-keel-rowe/1.png"
+        ],
+        "title": "Keel & Rowe",
+        "description": "A website for a local accounting and bookkeeping firm, with services, fixed monthly pricing and payroll support for small businesses and freelancers. A front-end concept with a clean, trustworthy layout.",
+        "category": "frontend",
+        "industry": "Business & Professional",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/basic-keel-rowe/"
+    },
+    {
+        "id": 69,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/atelier-koopman/1.png"
+        ],
+        "title": "Atelier Koopman",
+        "description": "A website for a Dutch upholstery workshop covering classic cars, motorcycles, boats and fine furniture. A front-end concept with an elegant, craft-focused design.",
+        "category": "frontend",
+        "industry": "Local Services",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/atelier-koopman/"
+    },
+    {
+        "id": 68,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/ashoka-ayurveda/1.png"
+        ],
+        "title": "Ashoka Ayurveda",
+        "description": "A landing page announcing an Ayurveda hotel on Madeira, with its story, treatments and a waiting list for priority booking. A front-end concept with a warm, serene wellness feel.",
+        "category": "frontend",
+        "industry": "Health & Wellness",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/ashoka-ayurveda/"
+    },
+    {
+        "id": 67,
+        "images": [
+            "https://asamshahadat.github.io/myPortfolioDataJson/images/advanced-koyo-tea/1.png"
+        ],
+        "title": "Koyo Tea",
+        "description": "A multi-page online store for Japanese green tea, matcha and teaware, with shop, product, cart, checkout, account and tea club pages. A front-end e-commerce concept with a calm, Japanese-inspired design.",
+        "category": "frontend",
+        "industry": "E-commerce",
+        "project_type": "Personal / Own Product Development",
+        "link": "https://html.codeviewport.com/advanced-koyo-tea/"
+    },
+    {
         "id": 66,
         "images": [
             "https://asamshahadat.github.io/myPortfolioDataJson/images/ignis/1.png"
