@@ -1,6 +1,6 @@
 [
     {
-        "id": 90,
+        "id": 89,
         "images": [
             "https://asamshahadat.github.io/myPortfolioDataJson/images/water-mitigation/1.png"
         ],
@@ -12,7 +12,7 @@
         "link": "https://html.codeviewport.com/water-mitigation/"
     },
     {
-        "id": 89,
+        "id": 88,
         "images": [
             "https://asamshahadat.github.io/myPortfolioDataJson/images/talentorbit-refresh/1.png"
         ],
@@ -22,18 +22,6 @@
         "industry": "Business & Professional",
         "project_type": "Personal / Own Product Development",
         "link": "https://html.codeviewport.com/talentorbit-refresh/"
-    },
-    {
-        "id": 88,
-        "images": [
-            "https://asamshahadat.github.io/myPortfolioDataJson/images/surgentec-revamp/1.png"
-        ],
-        "title": "SurGenTec",
-        "description": "A one-page revamp for a medical device company developing spine fixation, biologics and bone graft delivery systems. A front-end redesign concept with a sleek, high-tech medical look.",
-        "category": "frontend",
-        "industry": "Health & Wellness",
-        "project_type": "Personal / Own Product Development",
-        "link": "https://html.codeviewport.com/surgentec-revamp/"
     },
     {
         "id": 87,
